@@ -2,7 +2,7 @@
 
 > **Bridging the Justice Gap in the New Era of Indian Law**
 
-NyayaAI is a modern, highly polished LegalTech web application designed to help Indian citizens navigate the newly implemented criminal codes (BNS, BNSS, and BSA). It leverages AI to democratize legal knowledge and connects citizens directly with verified local advocates.
+NyayaConnect is a modern, highly polished LegalTech web application designed to help Indian citizens navigate the newly implemented criminal codes (BNS, BNSS, and BSA). It leverages AI to democratize legal knowledge and connects citizens directly with verified local advocates.
 
 ![NyayaAI Prototype Demo](./public/demo-placeholder.png)
 

@@ -1,4 +1,4 @@
-# NyayaAI ⚖️
+# Nyayaconnect⚖️
 
 > **Bridging the Justice Gap in the New Era of Indian Law**
 
